@@ -1,10 +1,10 @@
 *About:*
 
-WempServer is an accessible web development platform on Windows helping you to develop dynamic web applications with Nginx+PHP+MySQL. It's green(no installation), safe and fast - just download, extract and start. It's truly portable, you can move it to any where(just like USB flash drive), or you can compress it and take it along with you.
+WempServer is an accessible web development platform on Windows helping you to develop dynamic web applications with Nginx+PHP+MySQL. It's green (no installation), safe and fast - just download, extract and start. It's truly portable, you can move it anywhere (just like USB flash drive), or you can compress it and take it along with you.
 
 *Operating environment:*
 
-Microsoft Windows NT 5.1-x.x(including PE/XP/2003/Vista/2008/7/8/2012/8.1...)
+Microsoft Windows NT 5.1-x.x (including PE/XP/2003/Vista/2008/7/8/2012/8.1...)
 
 *WempServer includes all PHP releases:*
 
