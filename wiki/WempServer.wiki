@@ -4,7 +4,7 @@ WempServer is an easy web development platform on Windows helping you to develop
 
 *Operating environment:*
 
-Microsoft Windows NT 5.1-x.x (PE/XP/2003/Vista/2008/7/8/2012/8.1...)
+Microsoft Windows NT 5.1-x.x (PE/XP/2003/Vista/2008/7/8/2012/8.1/10...)
 
 *WempServer contains all PHP releases:*
 
@@ -41,6 +41,7 @@ en   Edit nginx.conf
 ep   Edit php.ini
 fc   FTP client
 fs   FTP server interface
+g    Google
 h    Help
 ke   Kill Explorer
 l    Localhost
@@ -131,4 +132,4 @@ WempServer.exe -s qe
 exit
 }}}
 
-For more information, please visit http://code.ysq.me/p/wempserver/
+For more information, please visit http://ysq.me/p/wempserver/
